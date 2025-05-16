@@ -13,16 +13,8 @@ A visually appealing **Tic-Tac-Toe** game built with **HTML, CSS, and JavaScript
 
 ## 🖼️ Screenshot
 
-![Tic-Tac-Toe Screenshot](assets/screenshot.png)
+![Tic-Tac-Toe Screenshot](screenshot.png)
 
-## 📁 Project Structure
-
-tic-tac-toe/
-├── index.html # Main HTML file with game layout
-├── style.css # CSS file for styling and theme
-├── script.js # JavaScript file for game logic
-├── README.md # Project documentation (you’re reading it!)
-└── assets/ # (Optional) Folder for images, icons, or sounds
 
 ## 🚀 How to Run
 
@@ -45,6 +37,6 @@ tic-tac-toe/
 
 ## 🧑‍💻 Author
 
-Made with ❤️ by [Your Name]  
+Made with ❤️ by Pratik  
 Feel free to use, modify, or contribute!
 
